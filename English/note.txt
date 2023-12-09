@@ -1,0 +1,19 @@
+English
+    What
+        ask for information
+    When
+        ask about time
+    Where
+        ask about places
+    Who
+        ask about people
+    Whom
+        ask about people
+    Which
+        ask about Choices
+    Whose
+        ask about possession
+    Why
+        ask about reason
+    How
+        ask about process

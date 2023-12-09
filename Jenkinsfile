@@ -1,0 +1,11 @@
+docker run \
+  --name jenkins-docker \
+  --rm \
+  --detach \
+  --privileged \
+  --network jenkins \
+  --network-alias docker \
+  --env DOCKER_TLS_CERTDIR=/certs \
+  --volume E:\Jenkins\certs:/certs/client \
+  --volume E:\Jenkins\home:/var/jenkins_home \
+  --publish 2376:2376 \

@@ -1,0 +1,70 @@
+In This Year 2023, What should I do?
+
+About
+    Personal 
+
+Description
+    Experience
+        FPT Software Company
+            17 Dec 2020 - 19 May 2021
+            Role
+                Fresher DevOps
+
+                Intern Java Developer
+
+        Bosch Global Software Technologies
+            15 Feb 2022 - Now
+            Role: DevOps Engineer
+            Domain: Automotiv, Embedded
+            Stack: Bitbucket, Jenkins, Windows,
+            Programming Language: Groovy, Python, Docker
+    Skills
+        Git 
+        Python
+        Linux CLI
+        MySQL
+
+        tools
+            VSCode, Git, 
+
+    A personal Project
+        CV Homepage
+        Lineage2 Private Server
+            Stacks
+
+    
+    Education
+        HCMUS University of Science
+        Bachelor of Mathematics and Computer Science
+        2020
+        GPA 6.59 Filtered or 5.82 Overall
+
+    Certificate
+        AWS Cloud Practioner - Basic [On going]
+        AWS Developer - Advanced 
+        AWS DevOps Engineer - Expert
+        AWS Advanced Networking - Speciality
+
+        AZ-900 Azure Fundamental
+        AZ-204 Azure Developer
+        AZ-400 Azure DevOps Engineer
+
+        Cisco
+        Linux
+        Scrum
+
+        CISSP - Ultimate
+
+
+
+Speech
+    Deutsch Lernen
+        Goethe A1
+    English
+        IELTS 7.0
+
+Plan
+    Deutsch Leben
+        Job suchen
+        Informatik suchen
+
