@@ -1,3 +1,15 @@
 [submodule "Azure/AZ-204"]
 	path = Azure/AZ-204
 	url = https://github.com/bachnn92/AZ-204-DevelopingSolutionsforMicrosoftAzure.git
+[submodule "Azure/AZ-104"]
+	path = Azure/AZ-104
+	url = https://github.com/bachnn92/AZ-104-MicrosoftAzureAdministrator.git
+[submodule "Azure/AZ-400"]
+	path = Azure/AZ-400
+	url = https://github.com/bachnn92/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions.git
+[submodule "Azure/DP-900"]
+	path = Azure/DP-900
+	url = https://github.com/bachnn92/DP-900T00A-Azure-Data-Fundamentals.git
+[submodule "Azure/AZ-500"]
+	path = Azure/AZ-500
+	url = https://github.com/bachnn92/AZ500-AzureSecurityTechnologies.git
