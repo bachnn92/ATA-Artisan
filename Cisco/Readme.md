@@ -1,0 +1,1 @@
+https://www.cisco.com/c/dam/en_us/training-events/certifications/career-path.pdf
