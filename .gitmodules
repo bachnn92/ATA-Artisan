@@ -13,3 +13,9 @@
 [submodule "Azure/AZ-500"]
 	path = Azure/AZ-500
 	url = https://github.com/bachnn92/AZ500-AzureSecurityTechnologies.git
+[submodule "Azure/Goethe"]
+	path = Azure/Goethe
+	url = https://github.com/bachnn92/Goethe-Zertifikat.git
+[submodule "Goethe-Zertifikat"]
+	path = Goethe-Zertifikat
+	url = https://github.com/bachnn92/Goethe-Zertifikat.git
