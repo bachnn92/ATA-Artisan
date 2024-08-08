@@ -1,0 +1,23 @@
+8h sleep
+2h workout
+2h learning
+4h working
+
+
+Scrum Meetings
+
+Stand up - Daily
+    What was done?
+    What is planned?
+    Any blocker?
+    
+Refinement - Weeky
+    till EOD ech Thursday or two days before each meeting
+        All invited persons should nominate their tickets to be biscussed on demand
+        Xiangchun will update the mandatory participants and tickets to be refined
+
+Retrospective - Monthly
+    To supplement the current SCM working model, we should establish a Retrospective
+    
+Review & Sprint closure - Monthly
+Sprint Planning - Monthly

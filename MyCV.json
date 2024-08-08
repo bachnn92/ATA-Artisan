@@ -1,0 +1,71 @@
+{
+    "config" : "internal bosch only",
+    "about" : {
+        "name" : "Nguyen Ngoc Bach", 
+        "title" : "Software Engineer",
+        "avatar" : "bachnn92.jpeg",
+        "contact" : {
+            "email" : "bachnn92@gmail.com",
+            "cellphone" : "+84 707 10 11 92",
+            "website" : "www.bachnn92.com",
+            "home" : "Ho Chi Minh City, Vietnam",
+            "social_network" : [
+                {
+                "name": "LinkedIn",
+                "url" : "https://www.linkedin.com/in/bachnn92"
+                },
+                {
+                "name": "Facebook",
+                "url" : "https://www.facebook.com/bachnn92"
+                }
+            ]
+    },
+    "description": {
+        "experience" : [
+            {
+                "company" : "FPT Software",
+                "in" : "17 Dec 2020",
+                "out" : "19 May 2021",
+                "working_time" : "n/a",
+                "milestone": [
+                    {
+                        "title": "Fresher",
+                        "role" : "DevOps",
+                        "project" :
+                        {
+                            "name" : "mock-test",
+                            "stack" : "Gitlab, Jenkins, Sonarque, Nexus, Docker"
+                        }
+
+                    },
+                    {
+                        "title": "Intern",
+                        "role" : "Java Developer",
+                        "domain" : "webapp"
+                    }
+                ]
+            },
+            {
+                "company" : "FPT Software",
+                "in" : "17 Dec 2020",
+                "out" : "now",
+                "working_time" : "n/a",
+                "milestone": [
+                    {"CSP COEM"},
+                    {"AES"},
+                    {"Cx Maturity"},
+                    {"onePTM"}
+
+                ]
+                
+            }
+
+        ],
+        "skills": ,
+        "project": ,
+        "education" :,
+        "certifiicate" : ,
+        "language" : ,
+        
+    }
+}
